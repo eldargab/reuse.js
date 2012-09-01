@@ -1,0 +1,23 @@
+{
+  "name": "reuse",
+  "version": "0.0.1",
+  "description": "Funky way to extend your objects",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldargab/reuse.js.git"
+  },
+  "keywords": [
+    "util",
+    "mixin",
+    "extend"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "license": "MIT"
+}

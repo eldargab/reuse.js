@@ -1,0 +1,9 @@
+{
+  "name": "reuse",
+  "version": "0.0.2",
+  "repo": "eldargab/reuse.js",
+  "description": "Utility for mixing and extending objects",
+  "keywords": ["mixin", "extend", "util"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}

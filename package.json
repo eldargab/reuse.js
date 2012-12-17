@@ -1,6 +1,6 @@
 {
   "name": "reuse",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Funky way to extend your objects",
   "scripts": {
     "test": "mocha -R spec"

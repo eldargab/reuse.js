@@ -13,8 +13,8 @@ obj.use({
 })
 
 // or
-function root (dir) {
-  this.root = dir
+function root (that, dir) {
+  that.root = dir
 }
 obj.use(root, 'public')
 
